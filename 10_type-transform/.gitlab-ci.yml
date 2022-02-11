@@ -1,0 +1,4 @@
+include:
+  - project: learning_materials/js
+    ref: master
+    file: ci-common.yml
